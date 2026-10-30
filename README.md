@@ -15,7 +15,7 @@
 
 ## 👨‍💻 Candidate Overview
 
-Hello and welcome! I am **Rehan Raza**, a passionate **Computer Science and Engineering (Data Science)** undergraduate at **Galgotias University** *(Student ID: `STU686632770504a1751528055` | Roll No: `23SCSE1420011`)*.
+Hello and welcome! I am **Rehan Raza**, a passionate **Computer Science and Engineering (Data Science)** undergraduate at **Galgotias University** *(Student ID: `23SCSE1420011` | Roll No: `23SCSE1420011`)*.
 
 My technical journey is driven by intense curiosity and dedication toward mastering modern software engineering, scalable cloud computing, data analytics, and artificial intelligence. This repository documents my structured coursework, national internships, industry simulations, and competitive coding milestones. Every certification listed here has been earned through rigorous problem solving, proctored examinations, or hands-on project implementations.
 
