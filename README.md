@@ -1719,6 +1719,7 @@ My-Certification/
 - **Name:** Rehan Raza
 - **Degree:** B.Tech Computer Science & Engineering (Specialization in Data Science)
 - **Institution:** Galgotias University, Greater Noida, India
+- **Gmail:** 099rehan@gamil.com
 - **GitHub:** [@Rehanraza009](https://github.com/Rehanraza009)
 - **Portfolio Repository:** [https://github.com/Rehanraza009/My-Certification](https://github.com/Rehanraza009/My-Certification)
 
